@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+.blue {
+  color: blue;
+}
+.listRed {
+  background-color: red;
+  color: white;
+}
+.listBlue {
+  background-color: blue;
+  color: white;
+}
